@@ -7,8 +7,8 @@
 
 ## 💻 Conhecimentos
 
-<li><img  width="38" height="38" alingn="left" src="./img//vscode.png" alt="VS Code" />Visual Studio Code<i></i></li>
-<li><img  width="38" height="38" alingn="left" src="./img//notion.svg" alt="Notion" /><i></i>Notion</li>
-<li><img  width="38" height="38" alingn="left" src="./img//python.png" alt="Python" /><i>Linguagem Python</i></li>
-<li><img  width="38" height="38" alingn="left" src="./img//c.png" alt="C" /><i>Linguagem C</i></li>
-<li><img  width="38" height="38" alingn="left" src="./img//java.png" alt="Java" /><i>Linguagem Java</i></li>
+<li><img  width="26" height="26" alingn="left" src="./img//vscode.png" alt="VS Code" /> Visual Studio Code<i></i></li>
+<li><img  width="26" height="26" alingn="left" src="./img//notion.svg" alt="Notion" /><i></i> Notion</li>
+<li><img  width="26" height="26" alingn="left" src="./img//python.png" alt="Python" /><i> Linguagem Python</i></li>
+<li><img  width="26" height="26" alingn="left" src="./img//c.png" alt="C" /><i> Linguagem C</i></li>
+<li><img  width="26" height="26" alingn="left" src="./img//java.png" alt="Java" /><i> Linguagem Java</i></li>
