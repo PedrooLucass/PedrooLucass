@@ -12,3 +12,6 @@
 <li><img  width="26" height="26" alingn="left" src="./img//python.png" alt="Python" /><i> Linguagem Python</i></li>
 <li><img  width="26" height="26" alingn="left" src="./img//c.png" alt="C" /><i> Linguagem C</i></li>
 <li><img  width="26" height="26" alingn="left" src="./img//java.png" alt="Java" /><i> Linguagem Java</i></li>
+<li><img  width="26" height="26" alingn="left" src="./img//javascript" alt="JavaScript" /><i> Linguagem JavaScript</i></li>
+<li><img  width="26" height="26" alingn="left" src="./img//html.png" alt="HTML" /><i> HTML</i></li>
+<li><img  width="26" height="26" alingn="left" src="./img//css.png" alt="CSS" /><i> CSS</i></li>
