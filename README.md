@@ -8,7 +8,7 @@
 ## 💻 Conhecimentos
 
 <li><img  width="26" height="26" alingn="left" src="./img//vscode.png" alt="VS Code" /><i> Visual Studio Code</i></li>
-<li><img  width="26" height="26" alingn="left" src="./img//intellij.png" alt="IntelliJ" /><i> IntelliJ</i></li>
+<li><img  width="26" height="26" alingn="left" src="./img//intellij.png" alt="IntelliJ IDEA" /><i> IntelliJ IDEA</i></li>
 <li><img  width="26" height="26" alingn="left" src="./img//notion.svg" alt="Notion" /><i> Notion</i></li>
 <li><img  width="26" height="26" alingn="left" src="./img//python.png" alt="Python" /><i> Linguagem Python</i></li>
 <li><img  width="26" height="26" alingn="left" src="./img//c.png" alt="C" /><i> Linguagem C</i></li>
