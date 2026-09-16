@@ -1,7 +1,7 @@
 ## Live long and prosper 🖖
 
 
-<li>Bacharelado em Engenharia da Computação (5° Período) - UP - Conclusão prevista: Dez/ 2027 </li>
+<li>Bacharelado em Engenharia da Computação (6° Período) - UP - Conclusão prevista: Dez/ 2027 </li>
 
 ---
 
